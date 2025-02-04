@@ -42,7 +42,7 @@ To create simple, intuitive, and visually appealing digital experiences. My goal
 
 ## 📊 **GitHub Stats**
 
-![Mahdieh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdiehabiyar&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Mahdieh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdiyeh-abiyar&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## ✍️ **Random Dev Quote**
 
@@ -50,6 +50,6 @@ To create simple, intuitive, and visually appealing digital experiences. My goal
 
 ## 🔝 **Top Contributed Repo**
 
-![Top Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiehabiyar&layout=compact&theme=radical)
+![Top Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiyeh-abiyar&layout=compact&theme=radical)
 
 
